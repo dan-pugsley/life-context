@@ -1,13 +1,13 @@
 ---
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
-summary: ""
+created: 2026-05-18
+updated: 2026-05-25
+summary: "Live root state — current bodyweight (as of 2026-05-25)"
 ---
 
-<!-- Stub — not yet populated.
+# Current status — root
 
-status.md is the single source of truth for LIVING STATE at the root level —
-facts that change over time (e.g. current bodyweight). Populated during
-onboarding and kept current as things change.
+> Single source of truth for volatile root-level metrics. `profile.md` holds stable identity and attributes; reference this file for anything that changes over time.
 
-Stable facts live in profile.md. See _decisions/004-living-state-separation.md. -->
+## Body
+
+- **Bodyweight:** ~70 kg (2026-05-25)

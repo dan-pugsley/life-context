@@ -1,13 +1,45 @@
 ---
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
-summary: ""
+created: 2026-05-18
+updated: 2026-05-18
+summary: "Generally healthy; mild seasonal asthma (managed); good sleep; one managed musculoskeletal issue (right shoulder — see exercise/)"
 ---
 
-<!-- Stub — not yet populated.
+# Conditions
 
-Run health/onboarding.md to populate this file: known conditions, medications
-and allergies, key metrics, lifestyle factors, and health goals/philosophy.
+- **Mild seasonal asthma** — managed with a salbutamol inhaler as needed. Rarely an issue during exercise; occasionally pre-empts before running on high-pollen days.
+- No other diagnosed physical, mental, or neurodevelopmental conditions.
+- Family history: type 2 diabetes (grandparent). No known heart disease or autoimmune history.
 
-Health has no status.md by default — it has no volatile state of its own.
-Volatile state lives in the sub-domains that have it (e.g. exercise/status.md). -->
+# PAR-Q
+
+No flags beyond a managed musculoskeletal issue (right shoulder — see [exercise/](exercise/)). Cleared for general training.
+
+# Medications and supplements
+
+- Salbutamol inhaler (as needed)
+- Creatine 5 g/day, whey protein, vitamin D (winter)
+
+# Allergies
+
+- None known.
+
+# Key metrics
+
+- Resting HR ~58 bpm
+- Blood pressure normal (last checked 2026-01)
+- No recent notable bloodwork.
+
+# Lifestyle
+
+- **Sleep:** ~7.5 h, good quality
+- **Stress:** moderate (work)
+- **Substances:** occasional alcohol; 1–2 coffees/day; no tobacco
+
+# Health goals and philosophy
+
+Preventive and performance-light: stay strong, mobile, and healthy for the long term. Address the shoulder properly rather than working around it indefinitely.
+
+# Healthcare providers
+
+- GP (annual check-ups)
+- Physiotherapist (managing the shoulder)

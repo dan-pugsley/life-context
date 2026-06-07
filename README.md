@@ -4,7 +4,9 @@
 
 This repository is the open **framework**: the architecture, conventions, and AI onboarding playbooks — with **no personal data**. You instantiate it, fill it with your own life (kept private), and point an AI agent at it.
 
-> 👉 **Want to see it filled in?** Check out the **[`demo` branch](../../tree/demo)** for a complete worked example built around a fictional persona — real structure, synthetic data.
+> 🧩 **You're on the `demo` branch — a worked example.** This branch fills the framework with a *fictional* persona (**Jordan Lee**, a Berlin-based recreational lifter managing a shoulder injury) so you can see the system in use: real structure, synthetic data. For the clean, empty template to start your own, switch to the **[`main` branch](../../tree/main)**.
+>
+> The richest example lives under [`health/exercise/`](health/exercise/): a [profile](health/exercise/profile.md), living [status](health/exercise/status.md), an [injury record](health/exercise/issues/right-shoulder/2026-03-15_subacromial-impingement.md), and a [periodised training block](health/exercise/programming/2026-05_strength-base/) with per-session feedback.
 
 ---
 
